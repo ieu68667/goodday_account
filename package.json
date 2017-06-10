@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build prod": "ng build --aot --prod --progress false --base-href \"https://ieu68667.github.io/goodday_account\""
+    "build.prod": "ng build --aot --prod --progress false --base-href \"https://ieu68667.github.io/goodday_account\""
   },
   "private": true,
   "dependencies": {
